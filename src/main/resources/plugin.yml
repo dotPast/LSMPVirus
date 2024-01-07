@@ -1,0 +1,4 @@
+name: LSMPVirus
+version: '${version}'
+main: lsmpteam.virus.LSMPVirus
+api-version: '1.20'
